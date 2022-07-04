@@ -1,0 +1,21 @@
+body{
+	margin: 0px;
+}
+.triangle{
+	width: 0px;
+	height: 0px;
+	border-bottom: 300px solid green;
+	border-left: 1300px solid transparent;
+	border-right: 200px solid transparent;
+}
+.sarvice{
+	background: green;
+	height: 200px;
+}
+.sarvice h2{
+	margin: 0px;
+	text-align: center;
+	font-size: 40px;
+	font-family: tahoma;
+	color: #fff;
+}
